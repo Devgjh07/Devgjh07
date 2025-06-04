@@ -1,7 +1,5 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:EEFF00,100:a82da8&height=300&section=header&text=Go%20Junhyeok&fontSize=90" />
 
-<img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-
 <!-- README.md -->
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
