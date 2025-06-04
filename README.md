@@ -41,19 +41,21 @@
 - 🥈 **2024 Local Skills Competition** – Cloud Computing (Silver)
 - 🏅 **Daegu Dream Presentation Contest** – Encouragement Award
 - 🧾 Information Processing Technician (정보처리기능사)
+- 🧾 Craftsman Computer Aided Mechanical Drawing (전산응용기계제도기능사)
+- 🧾 Craftsman 3D Printer Operation (3D프린터운용기능사)
 - ✅ Linux Master Level 2 (1차 합격)
 
 ---
 
 ## 📂 My Portfolio
 
-> 🌐 Check out my portfolio: [http://dev.gjh07.kro.kr](http://dev.gjh07.kro.kr)
+> 🌐 Check out my portfolio: [Null](Null)
 
 ---
 
 ## 📫 Contact Me
 
-- 📧 Email: `ko.junhyeok.dev@gmail.com`
+- 📧 Email: `dev.gjh07@gmail.com`
 - 💬 Blog (준비 중): Coming soon!
 - 📍 Based in Daegu, South Korea
 
