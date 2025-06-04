@@ -4,7 +4,8 @@
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
 <p align="center">
-  🚀 Aspiring Cloud & Backend Engineer<br/>Mechanical design CAD<br/>
+  🚀 Aspiring Cloud & Backend Engineer<br/>
+  🚀 Mechanical design CAD<br/>
   💡 Enthusiastic about scalable systems, DevOps, and cloud infrastructure<br/>
   🌱 Currently exploring Linux, AWS, Mechanical design CAD, Networking, RDBMS, and NoSQL
 </p>
