@@ -14,7 +14,8 @@
 ---
 ## 🚀 Skills Icon
 <img src="https://img.shields.io/badge/AWS-FFA500?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/AWS-FFA500?style=plastic&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=plastic&logo=mysql&logoColor=white"/>
  
 ---
 
