@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text='GoJunhyeok'&height=200&fontSize=90&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=ffffff)
 
 <!-- README.md -->
 
