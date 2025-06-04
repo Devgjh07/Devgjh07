@@ -1,7 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:dd9933,100:84fe39&height=300&section=header&text=Go%20Junhyeok&fontSize=90&fontColor=ffffff" />
 
 
-![header](https://capsule-render.vercel.app/api?type='venom'&color='color=0:dd9933,100:84fe39'&text='Go Junhyeok'&height=200&fontSize=90&fontColor='ffffff')
+![header](https://capsule-render.vercel.app/api?type='venom'&color='color=0:dd9933,100:84fe39'&text='GoJunhyeok'&height=200&fontSize=90&fontColor='ffffff')
+![footer](https://capsule-render.vercel.app/api?section=footer&type='venom'&color='ffffff')
 
 
 <!-- README.md -->
