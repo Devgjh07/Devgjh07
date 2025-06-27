@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=0bf856)
-
+[![center](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)
 <!-- README.md -->
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
@@ -67,4 +67,3 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-[![center](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)
