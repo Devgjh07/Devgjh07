@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=0bf856)
-[![center](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark)
+[![Top Langs](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark)
 <!-- README.md -->
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
