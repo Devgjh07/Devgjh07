@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=0bf856)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)   ![Solved.ac Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)
+![Solved.ac Profile](https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark)
 <!-- README.md -->
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
@@ -66,4 +67,9 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <a href="https://solved.ac/dev_gjh07/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07" alt="Solved.ac Profile" />
+  </a>
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark" alt="Top Languages" />
 </p>
