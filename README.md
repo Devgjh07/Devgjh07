@@ -66,4 +66,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07)](https://solved.ac/dev_gjh07/)
 </p>
