@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type='venom'&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=0bf856)
+![header](https://capsule-render.vercel.app/api?type=venom&color=0:dd9933,100:84fe39&text=GoJunhyeok&height=200&fontSize=90&fontColor=0bf856)
 <!-- README.md -->
 
 <h1 align="center">👋 Hi there, I'm Junhyeok Go</h1>
@@ -10,6 +10,20 @@
 </p>
 
 ---
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark" height="180" />
+</p>
+
+<p align="center">
+  <a href="https://solved.ac/dev_gjh07/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07" alt="Solved.ac Profile" />
+  </a>
+</p>
+
+---
+
 ## 🚀 Skills Icon
 <img src="https://img.shields.io/badge/AWS-FFA500?style=flat&logo=amazonaws&logoColor=white"/> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/> <img src="https://img.shields.io/badge/Git-181717?style=flat&logo=git&logoColor=white"/> <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css-663399?style=flat&logo=CSS&logoColor=white"/> <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/c-A8B9CC?style=flat&logo=C&logoColor=white"/> <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white"/> <img src="https://img.shields.io/badge/Json-000000?style=flat&logo=json&logoColor=white"/> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=white"/> <img src="https://img.shields.io/badge/GO-00ADD8?style=flat&logo=go&logoColor=white"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/SUSE-0C322C?style=flat&logo=suse&logoColor=white"/> <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Red Hat-EE0000?style=flat&logo=redhat&logoColor=white"/>
 
@@ -60,15 +74,3 @@
 - 📧 Email: `dev.gjh07@gmail.com`
 - 💬 Blog (준비 중): Coming soon!
 - 📍 Based in Daegu, South Korea
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br/>
-  <a href="https://solved.ac/dev_gjh07/">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07" alt="Solved.ac Profile" />
-  </a>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark" alt="Top Languages" />
-</p>
