@@ -65,9 +65,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Devgjh07&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <br/>
   <a href="https://solved.ac/dev_gjh07/">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=dev_gjh07" alt="Solved.ac Profile" />
   </a>
-  <br />
+  <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Devgjh07&layout=compact&theme=dark" alt="Top Languages" />
 </p>
